@@ -1,1 +1,9 @@
-Create Database Customers;
+Create Database Company;
+
+CREATE TABLE Customers (
+CustomerID varchar (255) not null AUTO_INCREMENT primary key,
+LastName varchar (255),
+FirstName varchar (255),
+Address varchar (255),
+Phone numeric (20)
+);
