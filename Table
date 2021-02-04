@@ -7,3 +7,11 @@ FirstName varchar (255),
 Address varchar (255),
 Phone numeric (20)
 );
+--Insert customer into the table
+INSERT INTO Customers (
+LastName, FirstName, Address, Phone
+)
+VALUES
+(
+"Smith", "James", "27 East Oakland St.", 3602007386
+);
