@@ -14,4 +14,6 @@ LastName, FirstName, Address, Phone
 VALUES
 (
 "Smith", "James", "27 East Oakland St.", 3602007386
+),
+("Mcdowell", "Ronnie", "695 Manhattan Street", 8327860017
 );
